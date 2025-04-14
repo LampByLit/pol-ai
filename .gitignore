@@ -41,10 +41,14 @@ next-env.d.ts
 *.swo
 
 # Project specific
+/data/
 /data/media/
 /data/threads/
 /data/summaries/
 /data/analysis/
+/data/xposter/
+/data/posted_threads.json
+/data/posted.txt
 
 # Logs
 *.log

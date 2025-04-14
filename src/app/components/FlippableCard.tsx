@@ -148,7 +148,7 @@ export const FlippableCard: React.FC<FlippableCardProps> = ({
                     marginBottom: '0.5rem',
                     lineHeight: '1.3'
                   }}>
-                    This project is open source and can be downloaded at <a href="https://github.com/hxkm/pol-ai" style={{color: 'blue'}}>github.com/hxkm/pol-ai</a>.
+                    This project is open source and can be downloaded at <a href="https://github.com/LampByLit/pol-ai" style={{color: 'blue'}}>github.com/LampByLit/pol-ai</a>.
                   </p>
                   <p style={{ 
                     fontSize: 'clamp(0.6rem, 1.35vw, 0.85rem)', 

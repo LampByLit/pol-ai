@@ -52,6 +52,12 @@ export const Header = () => {
               /pol/
             </a>
             <a 
+              href="https://lit-ai-production.up.railway.app/"
+              className={styles.dropdownItem}
+            >
+              /lit/
+            </a>
+            <a 
               href="https://xpara-ai-production.up.railway.app/"
               className={styles.dropdownItem}
             >
